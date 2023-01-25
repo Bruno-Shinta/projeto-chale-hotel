@@ -18,7 +18,7 @@ Projeto feito para estudo sobre html e css</a>
 <br>
 
 <p align="center">
-  <img alt="projeto chalé hotel" src=".github/preview.jpg" width="100%">
+  <img alt="projeto chalé hotel" src=".github/preview.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
