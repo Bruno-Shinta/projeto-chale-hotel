@@ -10,10 +10,11 @@ body {
 }
 
 #container {
-   background: #ede9cc;
+   background: #ede9cc url(../assets/bg-container.png) top center repeat-y;
    margin: 0 auto;
    min-width: 740px;
    max-width: 1180px;
+
 }
 
 #topo {
@@ -49,7 +50,6 @@ body {
     top: 0;
     right: 0;
     background: url(../assets/topo-imagem-lateral.png) no-repeat;
-    width: 40%;
     height: 250px;
     z-index: 2;
 }
@@ -108,10 +108,34 @@ ul#navegacao a:hover {
 
 #menu {
     margin-top: 15px;
+    
 }
 
 .depoimento {
     width: 226px;
     height: 164px;
     float: right;
+}
+
+#area-principal {
+    float: left;
+    width: 50%;
+    background: url(../assets/bg-area-principal.png) top left repeat-x;
+    padding: 15px 0;
+}
+
+#area-lateral {
+    float: right;
+    width: 50%;
+    background: url(../assets/bg-area-lateral.png) top left repeat-x;
+    padding: 20px 0;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 90%;
+}
+
+#rodape {
+    clear: both;
 }
