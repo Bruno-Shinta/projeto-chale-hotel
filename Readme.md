@@ -21,7 +21,7 @@ Projeto feito para estudo sobre html e css</a>
   <img alt="projeto chalé hotel" src=".github/preview.jpeg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🕵️‍♂️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
